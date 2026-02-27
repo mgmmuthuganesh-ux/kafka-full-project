@@ -1,2 +1,2 @@
 # kafka-full-project
-Expalin aboud docker and springboot
+Expalin about kafka project using  docker and springboot
